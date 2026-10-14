@@ -1,0 +1,6 @@
+Python 
+streamlit
+MySql
+mysql-connector-python
+fpdf2
+TravelAPI
